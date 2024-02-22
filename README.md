@@ -1,1 +1,2 @@
-# LSTM-AE-model-for-Indoor-Air-Quality-Analysis
+# Air-Quality-Anomaly-Detection-Project
+Based on the LSTM-AE model for IAQ (Indoor Air Quality) -Neural Network model
